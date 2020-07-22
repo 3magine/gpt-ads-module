@@ -184,6 +184,16 @@ Equivalent:
 </template>
 ```
 
+Set targeting example:
+
+```vue
+<template>
+  <GptAd
+    ad-unit="SOME-AD-UNIT"
+    size="120x60"
+    :set-targeting="['position','atf']" />
+</template>
+```
 
 ## Development
 

@@ -1,6 +1,6 @@
 {
-  "name": "@3magine/gpt-ads-module",
-  "version": "0.5.1",
+  "name": "3magine/gpt-ads-module",
+  "version": "0.5.6",
   "description": "Google Publisher Tag ads integration for Nuxt",
   "license": "MIT",
   "contributors": [

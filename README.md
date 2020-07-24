@@ -195,6 +195,17 @@ Set targeting example:
 </template>
 ```
 
+Set targeting example with multiple keys:
+
+```vue
+<template>
+  <GptAd
+    ad-unit="SOME-AD-UNIT"
+    size="120x60"
+    :set-targeting="['position','atf','theme','basketbal']" />
+</template>
+```
+
 ## Development
 
 - Clone this repository
